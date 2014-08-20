@@ -95,6 +95,8 @@ class FeatureContext extends MinkContext
 			echo $row['name']." ".$row['email']." ".$row['phone']."\n";
 		}
 	}
+	
+	// Teste
 //
 // Place your definition and hook methods here:
 //
