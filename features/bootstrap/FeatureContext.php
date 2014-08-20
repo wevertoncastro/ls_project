@@ -74,7 +74,7 @@ class FeatureContext extends MinkContext
     	}
     }
     
-    /**
+    /** 
      * @Then /^I wait for the suggestion box to appear$/
      */
 	public function iWaitForTheSuggestionBoxToAppear()
