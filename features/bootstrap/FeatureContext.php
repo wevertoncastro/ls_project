@@ -85,7 +85,7 @@ class FeatureContext extends MinkContext
 	}
     
 	/**
-	 * @Given /^the following peaple exist:$/
+	 * @Given /^the following people exist:$/
 	 */
 	public function thePeopleExist(TableNode $table)
 	{

@@ -5,7 +5,7 @@ Feature:
   I need do a foreach
   
   Scenario: List all rows of table
-    Given the following peaple exist:
+    Given the following people exist:
       | name  | email           | phone |
       | Aslak | aslak@email.com | 123   |
       | Joe   | jow@email.com   | 234   |
