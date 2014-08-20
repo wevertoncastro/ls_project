@@ -96,7 +96,7 @@ class FeatureContext extends MinkContext
 		}
 	}
 	
-	// Teste
+	// Teste2
 //
 // Place your definition and hook methods here:
 //
